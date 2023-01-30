@@ -7,6 +7,11 @@ This repository demonstrates how to implement unit testing with Jest in a JavaSc
 1. Clone this repository to your local machine.
 
 2. Install dependencies:
+npm install
+
+3. Run the tests: npm test
+
+
 
 
 
